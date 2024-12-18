@@ -65,10 +65,10 @@ To get started with JC-Anime:
    > Edit the `.\config\site.ts` if you wanna make it public.
 ## Star History
 
-<a href="https://star-history.com/#JamesCicada/jc-anim&Date">
+<a href="https://star-history.com/#JamesCicada/anime-website&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JamesCicada/jc-anim&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JamesCicada/jc-anim&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JamesCicada/jc-anim&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JamesCicada/anime-website&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JamesCicada/anime-website&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JamesCicada/anime-website&type=Date" />
  </picture>
 </a>
