@@ -1,0 +1,22 @@
+{
+    "name": "JC-Anime",
+    "short_name": "JC-Anime",
+    "description": "Stream and discover your favorite anime series and movies.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6200ea",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/loading.gif",
+        "sizes": "any",
+        "type": "image/gif"
+      }
+    ]
+  }

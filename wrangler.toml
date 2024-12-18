@@ -1,0 +1,16 @@
+name = "anime-api" # Your Worker name
+main = "dist/worker.js" # Path to your compiled Worker script
+compatibility_date = "2024-11-23" # Today's date
+
+# Account settings
+account_id = "c2aaecb9c55bf91e9f61fe40c05b7aee" # Replace with your account ID
+workers_dev = true # Enable for testing on *.workers.dev subdomain
+
+# KV Namespace for caching (optional but recommended)
+kv_namespaces = [
+  { binding = "ANIME_CACHE", id = "your-kv-namespace-id" }
+]
+
+# Environment-specific configurations
+[env.production]
+route = "api.example.com/*" # Replace with your production route
